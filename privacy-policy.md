@@ -1,8 +1,8 @@
-# Privacy Policy — ExpenseTracker
+# Privacy Policy — Expense Tracker
 
 _Last updated: 7 November 2026_
 
-ExpenseTracker ("the app", "we") helps you record and understand your personal spending. This policy explains what data the app handles, why, and the choices you have.
+Expense Tracker ("the app", "we") helps you record and understand your personal spending. This policy explains what data the app handles, why, and the choices you have.
 
 **Contact:** silentupgrade.x@gmail.com
 
@@ -17,22 +17,24 @@ ExpenseTracker ("the app", "we") helps you record and understand your personal s
 | **Voice entry (only when you tap the 🎤 mic)** — what you say, e.g. "30 chai" | To add expenses by speaking | The app doesn't record audio and needs no microphone permission: your phone's own speech service (Google's on most Android phones) turns your words into text and gives the app only that text, which is then handled like anything you type. See Google's privacy policy for its speech service |
 | **AI category suggestions (only if "Smarter categories with AI (Gemini)" is on)** — the words of an expense the app couldn't sort itself (e.g. "kaka station"), and the names of your categories and sub-categories | To pick the right category, or suggest a new one you can accept or decline | Sent to **Google Gemini** (via Firebase AI Logic) only in that case. **No amounts, names of people, dates, account or payment details are sent.** Gemini's answers are remembered on your phone so the same words aren't sent again. Turn it off any time in Settings |
 | **App preferences on the device** — reminder time, notification switches, app-lock setting, widget totals | To make the app work as you configured it | On your phone only |
+| **Daily activity summary** — once a day: the date you last used the app, app version, phone make/model and Android version, which features are switched on (e.g. budget, app lock, auto-detect, dark theme), how many expenses, subscriptions and lent/borrowed entries you have, how often features were used (e.g. voice, quick add, exports, AI lookups) and how many expenses use each built-in sub-category. **No amounts, notes, names of people or the names of sub-categories you created yourself** | To see how many people use the app, which features help, and what to fix or improve | Google Cloud Firestore, with your account. Only the developer can see it, in an admin view |
+| **Crash reports and app usage analytics** — when the app crashes: the error, app version, phone model and Android version; usage events such as app opens and screens viewed, with a random app-instance ID | To find and fix crashes and understand overall usage | **Google Firebase Crashlytics** and **Google Analytics for Firebase**. They don't include your expenses, notes or account details |
 
 We do **not** collect your location, contacts, photos, bank or card credentials, or the content of messages. OTPs and all non-payment notifications are ignored and never stored.
 
 ## 2. How we use data
 
-Only to provide the app's features: recording expenses, showing charts and insights, subscription and lent/borrowed tracking, reminders and notifications, exports you create, and syncing your data to your account. We do **not** sell your data, show ads, or share your data with anyone for marketing.
+Only to provide the app's features: recording expenses, showing charts and insights, subscription and lent/borrowed tracking, reminders and notifications, exports you create, and syncing your data to your account. The daily activity summary, crash reports and analytics are used only to keep the app working and to improve it. The developer can block an account that misuses the app, and can delete an account's data when you ask (or for abuse); this is the only reason the developer's access can reach your records, and they are never viewed for any other purpose. We do **not** sell your data, show ads, or share your data with anyone for marketing.
 
 ## 3. Sharing
 
-Your data is processed by **Google Firebase** (Authentication and Cloud Firestore), which stores it on our behalf. If you keep "Smarter categories with AI (Gemini)" on, the expense words and category names described above are processed by **Google Gemini** through Firebase AI Logic. See Google's privacy policy: https://policies.google.com/privacy
+Your data is processed by **Google Firebase** (Authentication, Cloud Firestore, Crashlytics and Google Analytics for Firebase), which stores it on our behalf. If you keep "Smarter categories with AI (Gemini)" on, the expense words and category names described above are processed by **Google Gemini** through Firebase AI Logic. See Google's privacy policy: https://policies.google.com/privacy
 
 We share data with no one else, except if required by law.
 
 ## 4. Security
 
-Data is sent over encrypted connections (HTTPS/TLS). Firestore security rules allow only your signed-in account to read or write your data. You can additionally lock the app with your fingerprint, face or phone PIN.
+Data is sent over encrypted connections (HTTPS/TLS). Firestore security rules allow only your signed-in account to read or write your data; the only exception is the developer's admin access described in section 2. You can additionally lock the app with your fingerprint, face or phone PIN.
 
 ## 5. Retention and deletion
 
