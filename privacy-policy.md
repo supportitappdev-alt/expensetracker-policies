@@ -42,7 +42,7 @@ Data is sent over encrypted connections (HTTPS/TLS). Firestore security rules al
 Your data is kept while your account exists. You can delete your account and **all** your data at any time:
 
 - **In the app:** Settings → **Delete account**. This permanently deletes everything in your account from our servers, deletes your Firebase user, and clears the app's data on your phone.
-- **Without the app:** follow the steps on the [Delete your account page](https://sudarshan692.github.io/expensetracker-policies/delete-account.html).
+- **Without the app:** follow the steps on the [Delete your account page](https://supportitappdev-alt.github.io/expensetracker-policies/delete-account.html).
 
 Deletion is permanent and cannot be undone. You can export your data first from Settings → Export.
 
