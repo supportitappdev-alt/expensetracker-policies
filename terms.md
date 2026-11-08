@@ -23,7 +23,7 @@ Please don't misuse the app — for example by trying to access other people's d
 ## 4. Free trial and subscription
 
 - New accounts get a **30-day free trial** with full access, no payment needed.
-- After the trial, using the app needs a subscription: **₹115 per month** or **₹1,000 per year** (prices may show in your local currency in Google Play).
+- After the trial, using the app needs a subscription: **₹119 per month** or **₹999 per year** (prices may show in your local currency in Google Play).
 - Payment is handled entirely by **Google Play** (UPI, cards or Play balance). Subscriptions **renew automatically** until you cancel; cancel any time in Google Play → Payments & subscriptions → Subscriptions. Cancelling keeps access until the end of the period you paid for.
 - Refunds follow Google Play's refund policy.
 - Your data is never deleted because a trial or subscription ended: subscribe again and it's all there, and you can delete your account at any time.
