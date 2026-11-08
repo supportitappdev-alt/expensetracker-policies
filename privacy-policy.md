@@ -2,7 +2,7 @@
 
 _Last updated: 8 November 2026_
 
-Expense Tracker ("the app", "we") helps you record and understand your personal spending. This policy explains what data the app handles, why, and the choices you have.
+Expense Tracker ("the app", "we") helps you record and understand your personal spending. This policy explains what data the app handles, why, and the choices you have. See also our [Terms of Use](terms.html).
 
 **Contact:** silentupgrade.x@gmail.com
 
@@ -17,6 +17,7 @@ Expense Tracker ("the app", "we") helps you record and understand your personal 
 | **Voice entry (only when you tap the 🎤 mic)** — what you say, e.g. "30 chai" | To add expenses by speaking | The app doesn't record audio and needs no microphone permission: your phone's own speech service (Google's on most Android phones) turns your words into text and gives the app only that text, which is then handled like anything you type. See Google's privacy policy for its speech service |
 | **AI category suggestions (only if "Smarter categories with AI (Gemini)" is on)** — the words of an expense the app couldn't sort itself (e.g. "kaka station"), and the names of your categories and sub-categories | To pick the right category, or suggest a new one you can accept or decline | Sent to **Google Gemini** (via Firebase AI Logic) only in that case. **No amounts, names of people, dates, account or payment details are sent.** Gemini's answers are remembered on your phone so the same words aren't sent again. Turn it off any time in Settings |
 | **App preferences on the device** — reminder time, notification switches, app-lock setting, widget totals | To make the app work as you configured it | On your phone only |
+| **Your agreement to these policies** — which version of the Terms of Use and this Privacy Policy you accepted, and the date | To show you've agreed, and to ask again when they change significantly | On your phone, and with your account in Google Cloud Firestore |
 | **Daily activity summary** — once a day: your account's email address, the days you used the app (last 60 days), app version, phone make/model and Android version, which features are switched on (e.g. budget, app lock, auto-detect, dark theme), how many expenses, subscriptions and lent/borrowed entries you have, how often features were used (e.g. voice, quick add, exports, AI lookups), how many times the app read and saved data each day (counts only), and how many expenses use each built-in sub-category. **No amounts, notes, names of people or the names of sub-categories you created yourself** | To see how many people use the app and how often, which features help, what to fix or improve, and to keep the app's server usage efficient. The email lets the developer recognise an account (for example when you ask for help or deletion) | Google Cloud Firestore, with your account. Only the developer can see it, in an admin view |
 | **Crash reports and app usage analytics** — when the app crashes: the error, app version, phone model and Android version; usage events such as app opens and screens viewed, with a random app-instance ID | To find and fix crashes and understand overall usage | **Google Firebase Crashlytics** and **Google Analytics for Firebase**. They don't include your expenses, notes or account details |
 
