@@ -4,7 +4,7 @@ _Last updated: 8 November 2026_
 
 Expense Tracker ("the app", "we") helps you record and understand your personal spending. This policy explains what data the app handles, why, and the choices you have. See also our [Terms of Use](terms.html).
 
-**Contact:** silentupgrade.x@gmail.com
+**Contact:** supportitappdev@gmail.com
 
 ## 1. Data we collect
 
@@ -65,4 +65,4 @@ We may update this policy. The "Last updated" date above shows the latest versio
 
 ## 9. Contact
 
-Questions or requests: silentupgrade.x@gmail.com
+Questions or requests: supportitappdev@gmail.com

@@ -4,7 +4,7 @@ _Last updated: 8 November 2026_
 
 These terms apply when you use the Expense Tracker Android app ("the app"), made by its independent developer ("we", "us"). By creating an account or using the app you agree to them and to our [Privacy Policy](privacy-policy.html). If you don't agree, please don't use the app.
 
-**Contact:** silentupgrade.x@gmail.com
+**Contact:** supportitappdev@gmail.com
 
 ## 1. What the app is
 
@@ -38,4 +38,4 @@ We may update these terms. If a change is significant, the app will show it and 
 
 ## 8. Contact
 
-Questions: silentupgrade.x@gmail.com
+Questions: supportitappdev@gmail.com

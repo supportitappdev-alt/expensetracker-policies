@@ -16,7 +16,7 @@ This immediately and permanently deletes:
 
 ## Option 2 — Without the app
 
-Email **silentupgrade.x@gmail.com** from the Google account you use in ExpenseTracker, with the subject **"Delete my ExpenseTracker account"**. We will delete the account and all its data within **30 days** and confirm by email.
+Email **supportitappdev@gmail.com** from the Google account you use in ExpenseTracker, with the subject **"Delete my ExpenseTracker account"**. We will delete the account and all its data within **30 days** and confirm by email.
 
 ## What is kept
 
