@@ -20,22 +20,31 @@ A personal tool to record and understand your own spending, subscriptions and mo
 
 Please don't misuse the app — for example by trying to access other people's data, interfering with the service, automating requests, or using it for anything unlawful. We may block an account that does this; a blocked account is signed out and can't use the app.
 
-## 4. No financial advice
+## 4. Free trial and subscription
+
+- New accounts get a **30-day free trial** with full access, no payment needed.
+- After the trial, using the app needs a subscription: **₹115 per month** or **₹1,000 per year** (prices may show in your local currency in Google Play).
+- Payment is handled entirely by **Google Play** (UPI, cards or Play balance). Subscriptions **renew automatically** until you cancel; cancel any time in Google Play → Payments & subscriptions → Subscriptions. Cancelling keeps access until the end of the period you paid for.
+- Refunds follow Google Play's refund policy.
+- Your data is never deleted because a trial or subscription ended: subscribe again and it's all there, and you can delete your account at any time.
+- We may give some accounts free access, and may change prices in future; Google Play tells you about price changes before they apply.
+
+## 5. No financial advice
 
 Charts, forecasts, budgets, insights and suggestions are estimates to help you understand your own spending. They are not financial, tax or legal advice. **AI category suggestions (Gemini) can be wrong** — you can change any category.
 
-## 5. Your data
+## 6. Your data
 
 Your data stays yours. How we handle it is explained in the [Privacy Policy](privacy-policy.html). You can export your expenses from Settings → Export, and delete your account and all its data at any time from Settings → Delete account, or by following the [Delete your account](delete-account.html) steps.
 
-## 6. Availability
+## 7. Availability
 
 The app is provided "as is". We work to keep it running and your data safe, but we can't promise it will always be available or free of errors, and we may change or stop features. Keep an export if a record is important to you. To the extent the law allows, we're not liable for indirect losses from using the app.
 
-## 7. Changes
+## 8. Changes
 
 We may update these terms. If a change is significant, the app will show it and ask you to accept before you continue. The "Last updated" date shows the latest version.
 
-## 8. Contact
+## 9. Contact
 
 Questions: supportitappdev@gmail.com
