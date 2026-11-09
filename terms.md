@@ -20,15 +20,14 @@ A personal tool to record and understand your own spending, subscriptions and mo
 
 Please don't misuse the app — for example by trying to access other people's data, interfering with the service, automating requests, or using it for anything unlawful. We may block an account that does this; a blocked account is signed out and can't use the app.
 
-## 4. Free plan, Pro trial and subscription
+## 4. Free trial and subscription
 
-- **Tracking is free forever:** adding, editing and viewing expenses, the dashboard, budgets, categories, subscriptions, lent/borrowed, voice entry and Quick add.
-- **Pro** adds auto-detect payments, AI category suggestions (Gemini), insights / charts / Year in review, and export to CSV and PDF. New accounts get Pro **free for 30 days**, no payment needed.
-- After the trial, Pro needs a subscription: **₹79 per month** or **₹799 per year** (prices may show in your local currency in Google Play). Without it, the free features keep working.
+- New accounts get a **30-day free trial** with full access, no payment needed.
+- After the trial, using the app needs a subscription: **₹59 per month** or **₹599 per year** (prices may show in your local currency in Google Play).
 - Payment is handled entirely by **Google Play** (UPI, cards or Play balance). Subscriptions **renew automatically** until you cancel; cancel any time in Google Play → Payments & subscriptions → Subscriptions. Cancelling keeps access until the end of the period you paid for.
 - A subscription belongs to the app account that bought it. After reinstalling or on a new phone, **Restore purchase** unlocks it again for that account (signed in to the same Google Play account) at no charge.
 - Refunds follow Google Play's refund policy.
-- Your data is never deleted or hidden because a trial or subscription ended: everything you recorded stays usable on the free plan, and you can delete your account at any time.
+- Your data is never deleted because a trial or subscription ended: subscribe again and it's all there, and you can delete your account at any time.
 - We may give some accounts free access, and may change prices in future; Google Play tells you about price changes before they apply.
 
 ## 5. No financial advice
