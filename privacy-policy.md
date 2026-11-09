@@ -31,7 +31,7 @@ Only to provide the app's features: recording expenses, showing charts and insig
 
 ## 3. Sharing
 
-Your data is processed by **Google Firebase** (Authentication, Cloud Firestore, Crashlytics and Google Analytics for Firebase), which stores it on our behalf. Subscription payments are handled by **Google Play**. If you keep "Smarter categories with AI (Gemini)" on, the expense words and category names described above are processed by **Google Gemini** through Firebase AI Logic. See Google's privacy policy: https://policies.google.com/privacy
+Your data is processed by **Google Firebase** (Authentication, Cloud Firestore, Crashlytics and Google Analytics for Firebase), which stores it on our behalf. To protect your account from fake or modified copies of the app, **Firebase App Check** asks **Google Play Integrity** to confirm that each request comes from the genuine app on a real device; Google receives information about the app and device for that check, never your expenses. Subscription payments are handled by **Google Play**. If you keep "Smarter categories with AI (Gemini)" on, the expense words and category names described above are processed by **Google Gemini** through Firebase AI Logic. See Google's privacy policy: https://policies.google.com/privacy
 
 We share data with no one else, except if required by law.
 
