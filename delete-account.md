@@ -11,7 +11,7 @@ You can permanently delete your ExpenseTracker account and all data linked to it
 This immediately and permanently deletes:
 
 - your account (Firebase user, name and email),
-- all expenses, categories, subscriptions, money lent/borrowed, goals and settings stored on our servers,
+- all expenses, categories, subscriptions, money lent/borrowed, budgets, goals, settings, your activity summary and policy acceptance stored on our servers,
 - the app's data on that phone (preferences, detected payments, reminders).
 
 ## Option 2 — Without the app

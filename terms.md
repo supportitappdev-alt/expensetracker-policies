@@ -1,6 +1,6 @@
 # Terms of Use — Expense Tracker
 
-_Last updated: 8 November 2026_
+_Last updated: 9 November 2026_
 
 These terms apply when you use the Expense Tracker Android app ("the app"), made by its independent developer ("we", "us"). By creating an account or using the app you agree to them and to our [Privacy Policy](privacy-policy.html). If you don't agree, please don't use the app.
 
@@ -25,6 +25,7 @@ Please don't misuse the app — for example by trying to access other people's d
 - New accounts get a **30-day free trial** with full access, no payment needed.
 - After the trial, using the app needs a subscription: **₹119 per month** or **₹999 per year** (prices may show in your local currency in Google Play).
 - Payment is handled entirely by **Google Play** (UPI, cards or Play balance). Subscriptions **renew automatically** until you cancel; cancel any time in Google Play → Payments & subscriptions → Subscriptions. Cancelling keeps access until the end of the period you paid for.
+- A subscription belongs to the app account that bought it. After reinstalling or on a new phone, **Restore purchase** unlocks it again for that account (signed in to the same Google Play account) at no charge.
 - Refunds follow Google Play's refund policy.
 - Your data is never deleted because a trial or subscription ended: subscribe again and it's all there, and you can delete your account at any time.
 - We may give some accounts free access, and may change prices in future; Google Play tells you about price changes before they apply.
