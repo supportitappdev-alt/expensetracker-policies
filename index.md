@@ -1,4 +1,4 @@
-# Expense Tracker
+# Hisaab: Expense Tracker
 
 Personal expense tracker for Android.
 
