@@ -1,6 +1,6 @@
 # Terms of Use — Hisaab: Expense Tracker
 
-_Last updated: 11 November 2026_
+_Last updated: 12 November 2026_
 
 These terms apply when you use the Hisaab: Expense Tracker Android app ("the app"), made by its independent developer ("we", "us"). By creating an account or using the app you agree to them and to our [Privacy Policy](privacy-policy.html). If you don't agree, please don't use the app.
 
@@ -22,8 +22,8 @@ Please don't misuse the app — for example by trying to access other people's d
 
 ## 4. Free trial and subscription
 
-- New accounts get a **30-day free trial** with full access, no payment needed.
-- After the trial, using the app needs a subscription: **₹59 per month** or **₹599 per year** (prices may show in your local currency in Google Play).
+- New accounts get a **30-day free trial** with full access, no payment needed. On the free trial the app may show a short video ad (Google AdMob) after a few expenses; see the [Privacy Policy](privacy-policy.html).
+- After the trial, using the app needs a subscription: **₹60 per month** or **₹600 per year** (prices may show in your local currency in Google Play).
 - Payment is handled entirely by **Google Play** (UPI, cards or Play balance). Subscriptions **renew automatically** until you cancel; cancel any time in Google Play → Payments & subscriptions → Subscriptions. Cancelling keeps access until the end of the period you paid for.
 - A subscription belongs to the app account that bought it. After reinstalling or on a new phone, **Restore purchase** unlocks it again for that account (signed in to the same Google Play account) at no charge.
 - Refunds follow Google Play's refund policy.
