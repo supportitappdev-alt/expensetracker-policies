@@ -44,7 +44,9 @@ Data is sent over encrypted connections (HTTPS/TLS). Firestore security rules al
 
 ## 5. Retention and deletion
 
-Your data is kept while your account exists. You can delete your account and **all** your data at any time:
+Your data is kept while your account exists. The developer may set a limit on how long expenses are kept for everyone (for example, the last 365 days): expenses older than that are then deleted automatically from your account, oldest first, by your own app when it opens or when you add expenses. Lent/borrowed entries, subscriptions, categories and budgets are not affected. Export your data (Settings → Export) if you want a copy of older expenses.
+
+You can delete your account and **all** your data at any time:
 
 - **In the app:** Settings → **Delete account**. This permanently deletes everything in your account from our servers, deletes your Firebase user, and clears the app's data on your phone.
 - **Without the app:** follow the steps on the [Delete your account page](https://supportitappdev-alt.github.io/expensetracker-policies/delete-account.html).
