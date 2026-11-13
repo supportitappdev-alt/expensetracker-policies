@@ -2,7 +2,7 @@
 
 _Your Finance, Simplified._
 
-Personal expense tracker for Android (formerly Hisaab).
+Personal expense tracker for Android.
 
 - [Privacy Policy](privacy-policy.html)
 - [Terms of Use](terms.html)
