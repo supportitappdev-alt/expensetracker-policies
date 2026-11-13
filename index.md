@@ -1,4 +1,4 @@
-# Finora: Expense Tracker
+# Centora: Expense Tracker
 
 _Your Finance, Simplified._
 
