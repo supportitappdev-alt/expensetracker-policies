@@ -1,8 +1,8 @@
-# Privacy Policy — Hisaab: Expense Tracker
+# Privacy Policy — Finora: Expense Tracker
 
-_Last updated: 12 November 2026_
+_Last updated: 13 November 2026_
 
-Hisaab: Expense Tracker ("the app", "we") helps you record and understand your personal spending. This policy explains what data the app handles, why, and the choices you have. See also our [Terms of Use](terms.html).
+Finora: Expense Tracker ("the app", "we") helps you record and understand your personal spending. This policy explains what data the app handles, why, and the choices you have. See also our [Terms of Use](terms.html).
 
 **Contact:** supportitappdev@gmail.com
 

@@ -1,8 +1,8 @@
-# Terms of Use — Hisaab: Expense Tracker
+# Terms of Use — Finora: Expense Tracker
 
-_Last updated: 12 November 2026_
+_Last updated: 13 November 2026_
 
-These terms apply when you use the Hisaab: Expense Tracker Android app ("the app"), made by its independent developer ("we", "us"). By creating an account or using the app you agree to them and to our [Privacy Policy](privacy-policy.html). If you don't agree, please don't use the app.
+These terms apply when you use the Finora: Expense Tracker Android app ("the app"), made by its independent developer ("we", "us"). By creating an account or using the app you agree to them and to our [Privacy Policy](privacy-policy.html). If you don't agree, please don't use the app.
 
 **Contact:** supportitappdev@gmail.com
 
