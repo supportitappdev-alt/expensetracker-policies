@@ -1,6 +1,6 @@
 # Terms of Use — Centora: Expense Tracker
 
-_Last updated: 13 November 2026_
+_Last updated: 15 November 2026_
 
 These terms apply when you use the Centora: Expense Tracker Android app ("the app"), made by its independent developer ("we", "us"). By creating an account or using the app you agree to them and to our [Privacy Policy](privacy-policy.html). If you don't agree, please don't use the app.
 
@@ -20,9 +20,12 @@ A personal tool to record and understand your own spending, subscriptions and mo
 
 Please don't misuse the app — for example by trying to access other people's data, interfering with the service, automating requests, or using it for anything unlawful. We may block an account that does this; a blocked account is signed out and can't use the app.
 
+**Phone date and time.** The free trial and free days follow the real date, so please keep your phone's **automatic date & time** on. When you open the app or sign in, it compares your phone's clock with the real time; if it is many hours off (for example the date was changed), the app signs you out and shows a warning. After the **3rd time** the account is blocked. Only we can unblock it: write to supportitappdev@gmail.com.
+
 ## 4. Free trial and subscription
 
-- New accounts get a **30-day free trial** with full access, no payment needed. On the free trial the app may show a short video ad (Google AdMob) after a few expenses; see the [Privacy Policy](privacy-policy.html).
+- New accounts get a **30-day free trial** with full access, no payment needed. On the free trial the app may show a short video ad (Google AdMob) after a few expenses; we may also show these ads to accounts with free access or a paid plan. See the [Privacy Policy](privacy-policy.html).
+- **Free days for videos:** when the app offers it, you can watch short video ads to get free days (how many videos give how many days is shown in the app), up to the daily limit shown in the app. Free days have no cash value, can't be transferred, aren't offered once a paid plan has ended, and we may change or stop this offer at any time.
 - After the trial, using the app needs a **monthly or yearly subscription**. Current prices are shown in the app and in Google Play before you subscribe (in your local currency).
 - Payment is handled entirely by **Google Play** (UPI, cards or Play balance). Subscriptions **renew automatically** until you cancel; cancel any time in Google Play → Payments & subscriptions → Subscriptions. Cancelling keeps access until the end of the period you paid for.
 - A subscription belongs to the app account that bought it. After reinstalling or on a new phone, **Restore purchase** unlocks it again for that account (signed in to the same Google Play account) at no charge.
@@ -39,6 +42,8 @@ Charts, forecasts, budgets, insights and suggestions are estimates to help you u
 Your data stays yours. How we handle it is explained in the [Privacy Policy](privacy-policy.html). You can export your expenses from Settings → Export, and delete your account and all its data at any time from Settings → Delete account, or by following the [Delete your account](delete-account.html) steps.
 
 ## 7. Availability
+
+The app needs an internet connection to sign in. You can add expenses offline, but the app needs to go online at least **once a day** to check the date and sync; after a day offline it asks you to connect before you continue.
 
 The app is provided "as is". We work to keep it running and your data safe, but we can't promise it will always be available or free of errors, and we may change or stop features. Keep an export if a record is important to you. To the extent the law allows, we're not liable for indirect losses from using the app.
 
