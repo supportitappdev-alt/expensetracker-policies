@@ -1,6 +1,6 @@
 # Terms of Use — Centora: Expense Tracker
 
-_Last updated: 15 November 2026_
+_Last updated: 17 November 2026_
 
 These terms apply when you use the Centora: Expense Tracker Android app ("the app"), made by its independent developer ("we", "us"). By creating an account or using the app you agree to them and to our [Privacy Policy](privacy-policy.html). If you don't agree, please don't use the app.
 
@@ -25,7 +25,7 @@ Please don't misuse the app — for example by trying to access other people's d
 ## 4. Free trial and subscription
 
 - New accounts get a **30-day free trial** with full access, no payment needed. On the free trial the app may show a short video ad (Google AdMob) after a few expenses; we may also show these ads to accounts with free access or a paid plan. See the [Privacy Policy](privacy-policy.html).
-- **Free days for videos:** when the app offers it, you can watch short video ads to get free days (how many videos give how many days is shown in the app), up to the daily limit shown in the app. Free days have no cash value, can't be transferred, aren't offered once a paid plan has ended, and we may change or stop this offer at any time.
+- **Free days for videos:** when the app offers it, you can watch short video ads to get free days (how many videos give how many days is shown in the app), up to the daily limit shown in the app. This is open to every account, including during or after a paid plan or free access; days earned then count from the day you earn them. Free days have no cash value, can't be transferred, and we may change or stop this offer at any time.
 - After the trial, using the app needs a **monthly or yearly subscription**. Current prices are shown in the app and in Google Play before you subscribe (in your local currency).
 - Payment is handled entirely by **Google Play** (UPI, cards or Play balance). Subscriptions **renew automatically** until you cancel; cancel any time in Google Play → Payments & subscriptions → Subscriptions. Cancelling keeps access until the end of the period you paid for.
 - A subscription belongs to the app account that bought it. After reinstalling or on a new phone, **Restore purchase** unlocks it again for that account (signed in to the same Google Play account) at no charge.
@@ -40,6 +40,8 @@ Charts, forecasts, budgets, insights and suggestions are estimates to help you u
 ## 6. Your data
 
 Your data stays yours. How we handle it is explained in the [Privacy Policy](privacy-policy.html). You can export your expenses from Settings → Export, and delete your account and all its data at any time from Settings → Delete account, or by following the [Delete your account](delete-account.html) steps.
+
+**Shared trips.** Trips are for splitting costs among friends. Everything in a trip can be seen by everyone who joined it with its invite link or code, so share the invite only with the people on the trip. The trip's admins add and change the amounts and can make other members admin; everyone else can only see it. The settle-up ("who pays whom") is a calculation from the amounts entered: check it with your friends. Payments between you happen outside the app, and we are not part of them.
 
 ## 7. Availability
 

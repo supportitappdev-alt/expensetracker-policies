@@ -1,6 +1,6 @@
 # Privacy Policy — Centora: Expense Tracker
 
-_Last updated: 15 November 2026_
+_Last updated: 17 November 2026_
 
 Centora: Expense Tracker ("the app", "we") helps you record and understand your personal spending. This policy explains what data the app handles, why, and the choices you have. See also our [Terms of Use](terms.html).
 
@@ -16,6 +16,7 @@ Centora: Expense Tracker ("the app", "we") helps you record and understand your 
 | **Merchant → category choices (only with "Auto-detect payments")** — which category you picked for each payee | To pre-select the category next time and to decide which merchants are trusted for auto-add | On your phone only |
 | **Voice entry (only when you tap the 🎤 mic)** — what you say, e.g. "30 chai" | To add expenses by speaking | The app doesn't record audio and needs no microphone permission: your phone's own speech service (Google's on most Android phones) turns your words into text and gives the app only that text, which is then handled like anything you type. See Google's privacy policy for its speech service |
 | **AI category suggestions (only if "Smarter categories with AI (Gemini)" is on)** — the words of an expense the app couldn't sort itself (e.g. "kaka station"), and the names of your categories and sub-categories | To pick the right category, or suggest a new one you can accept or decline | Sent to **Google Gemini** (via Firebase AI Logic) only in that case. **No amounts, names of people, dates, account or payment details are sent.** Gemini's answers are remembered on your phone so the same words aren't sent again. Turn it off any time in Settings |
+| **Shared trips (only if you create or join a trip)** — the trip's name, budget and currency; the names of the people in it (as typed, including friends who don't use the app); each trip expense (what for, amount, currency and rate, category, date, who paid and who shares it); money given between people and settle-up payments; who the trip's admins are; and, for people who joined with the invite link or code, which name is theirs and their account ID | To split trip costs: totals, budget, each person's share and who pays whom. When a trip is closed, **your own share** is also added as an expense in your account (category Tour) | Google Cloud Firestore, in the trip. **Everyone who joined the trip can see everything in it**; only its admins can add or change amounts. Anyone with the trip's invite link or code can join it, so share it only with the people on the trip |
 | **Signed-in phone** — a random ID the app creates for your phone (not your phone number, IMEI or any hardware ID) | So only one phone is signed in to your account at a time: signing in on a new phone signs the old one out | With your account in Google Cloud Firestore, and on your phone |
 | **App preferences on the device** — reminder time, notification switches, app-lock setting, widget totals | To make the app work as you configured it | On your phone only |
 | **Subscription status** — whether you're on the free trial, a monthly or yearly plan bought through Google Play, or free access given by the developer, with the dates | To unlock the app after the trial, and to count subscriptions in the developer's admin view | On your phone and with your account in Google Cloud Firestore. Each purchase carries a scrambled (one-way hashed) form of your account ID, so a subscription belongs to the account that bought it. **Payments are processed by Google Play: we never see or store your UPI, card or bank details** |
@@ -38,19 +39,22 @@ Your data is processed by **Google Firebase** (Authentication, Cloud Firestore, 
 
 **Ads.** While ads are switched on, people on the free trial see a video ad from **Google AdMob** after every few expenses they add. The developer may also show these ads to accounts with free access or a paid plan; when a paid plan includes ads, the plans screen doesn't say "No ads". **Free days:** if the app offers it, you can choose to watch short rewarded videos (Google AdMob) to get free days (the app shows how many videos give how many days), up to a daily limit; watching is never required. AdMob uses the data listed in section 1, including your advertising ID, to choose and measure ads; ads may be personalised unless you opt out. Where the law requires it (for example in the EEA and the UK), the app first shows Google's consent form. You can reset or delete your advertising ID, or opt out of personalised ads, in your phone's **Settings → Google → Ads** (or **Settings → Privacy → Ads**). Unless the developer has switched on ads for paid plans, subscribing removes ads. How Google uses this data: https://policies.google.com/technologies/partner-sites
 
+**Shared trips.** What you put in a trip is shared with the other people who joined that trip with its invite link or code (see section 1). Invite links open a page on this website that only passes the code to the app.
+
 We share data with no one else, except if required by law.
 
 ## 4. Security
 
-Data is sent over encrypted connections (HTTPS/TLS). Firestore security rules allow only your signed-in account to read or write your data; the only exception is the developer's admin access described in section 2. You can additionally lock the app with your fingerprint, face or phone PIN.
+Data is sent over encrypted connections (HTTPS/TLS). Firestore security rules allow only your signed-in account to read or write your data; the exceptions are shared trips, which only the trip's members can read and only its admins can change, and the developer's admin access described in section 2. You can additionally lock the app with your fingerprint, face or phone PIN.
 
 ## 5. Retention and deletion
 
-Your data is kept while your account exists. The developer may set a limit on how long expenses are kept for everyone (for example, the last 365 days): expenses older than that are then deleted automatically from your account, oldest first, by your own app when it opens or when you add expenses. Lent/borrowed entries, subscriptions, categories and budgets are not affected. Export your data (Settings → Export) if you want a copy of older expenses.
+Your data is kept while your account exists. A shared trip is kept until its owner deletes it. If you leave a trip, or delete your account, your account is unlinked from the trip, but your name and the amounts stay in it so your friends' sums stay right (ask the trip's owner to remove or rename you, or to delete the trip). The developer may set a limit on how long expenses are kept for everyone (for example, the last 365 days): expenses older than that are then deleted automatically from your account, oldest first, by your own app when it opens or when you add expenses. Lent/borrowed entries, subscriptions, categories and budgets are not affected. Export your data (Settings → Export) if you want a copy of older expenses.
 
 You can delete your account and **all** your data at any time:
 
 - **In the app:** Settings → **Delete account**. This permanently deletes everything in your account from our servers, deletes your Firebase user, and clears the app's data on your phone.
+- Deleting your account also takes you out of every shared trip (see above); trips where you were the only member are deleted.
 - **Without the app:** follow the steps on the [Delete your account page](https://supportitappdev-alt.github.io/expensetracker-policies/delete-account.html).
 
 Deletion is permanent and cannot be undone. You can export your data first from Settings → Export.
