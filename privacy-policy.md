@@ -1,6 +1,6 @@
 # Privacy Policy — Centora: Expense Tracker
 
-_Last updated: 17 November 2026_
+_Last updated: 19 November 2026_
 
 Centora: Expense Tracker ("the app", "we") helps you record and understand your personal spending. This policy explains what data the app handles, why, and the choices you have. See also our [Terms of Use](terms.html).
 
@@ -35,9 +35,11 @@ Only to provide the app's features: recording expenses, showing charts and insig
 
 ## 3. Sharing
 
-Your data is processed by **Google Firebase** (Authentication, Cloud Firestore, Crashlytics and Google Analytics for Firebase), which stores it on our behalf. To protect your account from fake or modified copies of the app, **Firebase App Check** asks **Google Play Integrity** to confirm that each request comes from the genuine app on a real device; Google receives information about the app and device for that check, never your expenses. Subscription payments are handled by **Google Play**. If you keep "Smarter categories with AI (Gemini)" on, the expense words and category names described above are processed by **Google Gemini** through Firebase AI Logic. See Google's privacy policy: https://policies.google.com/privacy
+Your data is processed by **Google Firebase** (Authentication, Cloud Firestore, Crashlytics and Google Analytics for Firebase), which stores it on our behalf. To protect your account from fake or modified copies of the app, **Firebase App Check** asks **Google Play Integrity** to confirm that each request comes from the genuine app on a real device; Google receives information about the app and device for that check, never your expenses. Requests from copies that fail the check (for example a modified or unofficial copy) are refused, so they can't read or change any data. Subscription payments are handled by **Google Play**. If you keep "Smarter categories with AI (Gemini)" on, the expense words and category names described above are processed by **Google Gemini** through Firebase AI Logic. See Google's privacy policy: https://policies.google.com/privacy
 
 **Ads.** While ads are switched on, people on the free trial see a video ad from **Google AdMob** after every few expenses they add. The developer may also show these ads to accounts with free access or a paid plan; when a paid plan includes ads, the plans screen doesn't say "No ads". **Free days:** if the app offers it, you can choose to watch short rewarded videos (Google AdMob) to get free days (the app shows how many videos give how many days), up to a daily limit; watching is never required. AdMob uses the data listed in section 1, including your advertising ID, to choose and measure ads; ads may be personalised unless you opt out. Where the law requires it (for example in the EEA and the UK), the app first shows Google's consent form. You can reset or delete your advertising ID, or opt out of personalised ads, in your phone's **Settings → Google → Ads** (or **Settings → Privacy → Ads**). Unless the developer has switched on ads for paid plans, subscribing removes ads. How Google uses this data: https://policies.google.com/technologies/partner-sites
+
+**Reports you export.** PDF and Excel reports (including charts) are made on your phone. They go only where you choose to save or share them (for example WhatsApp or Drive), and from then on that app's own policy applies. Reports always show full amounts, even if you hide amounts in the app.
 
 **Shared trips.** What you put in a trip is shared with the other people who joined that trip with its invite link or code (see section 1). Invite links open a page on this website that only passes the code to the app.
 

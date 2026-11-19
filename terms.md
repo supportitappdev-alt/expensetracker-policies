@@ -1,6 +1,6 @@
 # Terms of Use — Centora: Expense Tracker
 
-_Last updated: 17 November 2026_
+_Last updated: 19 November 2026_
 
 These terms apply when you use the Centora: Expense Tracker Android app ("the app"), made by its independent developer ("we", "us"). By creating an account or using the app you agree to them and to our [Privacy Policy](privacy-policy.html). If you don't agree, please don't use the app.
 
@@ -19,6 +19,8 @@ A personal tool to record and understand your own spending, subscriptions and mo
 ## 3. Fair use
 
 Please don't misuse the app — for example by trying to access other people's data, interfering with the service, automating requests, or using it for anything unlawful. We may block an account that does this; a blocked account is signed out and can't use the app.
+
+**Use the genuine app.** Install the app only from Google Play. Don't copy, modify, decompile, reverse-engineer, crack or redistribute it, and don't try to get around the free trial, the subscription, ads or any limit in the app. The app and its design, name and logo belong to the developer. To protect everyone's data, our servers check with Google Play Integrity that requests come from the genuine app: modified or unofficial copies can't sign in, load or save data, or use the AI features. We may block accounts used with such copies.
 
 **Phone date and time.** The free trial and free days follow the real date, so please keep your phone's **automatic date & time** on. When you open the app or sign in, it compares your phone's clock with the real time; if it is many hours off (for example the date was changed), the app signs you out and shows a warning. After the **3rd time** the account is blocked. Only we can unblock it: write to supportitappdev@gmail.com.
 
@@ -39,7 +41,9 @@ Charts, forecasts, budgets, insights and suggestions are estimates to help you u
 
 ## 6. Your data
 
-Your data stays yours. How we handle it is explained in the [Privacy Policy](privacy-policy.html). You can export your expenses from Settings → Export, and delete your account and all its data at any time from Settings → Delete account, or by following the [Delete your account](delete-account.html) steps.
+Your data stays yours. How we handle it is explained in the [Privacy Policy](privacy-policy.html). You can delete your account and all its data at any time from Settings → Delete account, or by following the [Delete your account](delete-account.html) steps.
+
+**Reports.** You can export your expenses as PDF or Excel reports (with charts) from Settings → Export, and share a trip's report with its members. Reports always show full amounts, even if you hide amounts in the app. Once you save or share a report, it's a file on your phone or in the app you sent it to, and we can't change or delete it.
 
 **Shared trips.** Trips are for splitting costs among friends. Everything in a trip can be seen by everyone who joined it with its invite link or code, so share the invite only with the people on the trip. The trip's admins add and change the amounts and can make other members admin; everyone else can only see it. The settle-up ("who pays whom") is a calculation from the amounts entered: check it with your friends. Payments between you happen outside the app, and we are not part of them.
 
