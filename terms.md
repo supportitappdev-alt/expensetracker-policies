@@ -29,6 +29,7 @@ Please don't misuse the app — for example by trying to access other people's d
 - New accounts get a **30-day free trial** with full access, no payment needed. On the free trial the app may show a short video ad (Google AdMob) after a few expenses; we may also show these ads to accounts with free access or a paid plan. See the [Privacy Policy](privacy-policy.html).
 - **Free days for videos:** when the app offers it, you can watch short video ads to get free days (how many videos give how many days is shown in the app), up to the daily limit shown in the app. This is open to every account, including during or after a paid plan or free access; days earned then count from the day you earn them. Free days have no cash value, can't be transferred, and we may change or stop this offer at any time.
 - After the trial, using the app needs a **monthly or yearly subscription**. Current prices are shown in the app and in Google Play before you subscribe (in your local currency).
+- Prices are charged by Google Play in your Google Play country's currency. The currency you pick in the app (Settings → Currency) only changes how the app shows your own amounts, not what you pay.
 - Payment is handled entirely by **Google Play** (UPI, cards or Play balance). Subscriptions **renew automatically** until you cancel; cancel any time in Google Play → Payments & subscriptions → Subscriptions. Cancelling keeps access until the end of the period you paid for.
 - A subscription belongs to the app account that bought it. After reinstalling or on a new phone, **Restore purchase** unlocks it again for that account (signed in to the same Google Play account) at no charge.
 - Refunds follow Google Play's refund policy.
@@ -43,9 +44,11 @@ Charts, forecasts, budgets, insights and suggestions are estimates to help you u
 
 Your data stays yours. How we handle it is explained in the [Privacy Policy](privacy-policy.html). You can delete your account and all its data at any time from Settings → Delete account, or by following the [Delete your account](delete-account.html) steps.
 
+**Currency.** Amounts are shown in the currency you choose on the first screen or in Settings → Currency (the only places it can be changed). The app doesn't convert between currencies: changing it keeps every number you entered as it is and only changes the symbol and how numbers are grouped. Suggestions such as auto-detecting UPI payments are offered only when you use the Indian rupee.
+
 **Reports.** You can export your expenses as PDF or Excel reports (with charts) from Settings → Export, and share a trip's report with its members. Reports always show full amounts, even if you hide amounts in the app. Once you save or share a report, it's a file on your phone or in the app you sent it to, and we can't change or delete it.
 
-**Shared trips.** Trips are for splitting costs among friends. Everything in a trip can be seen by everyone who joined it with its invite link or code, so share the invite only with the people on the trip. The trip's admins add and change the amounts and can make other members admin; everyone else can only see it. The settle-up ("who pays whom") is a calculation from the amounts entered: check it with your friends. Payments between you happen outside the app, and we are not part of them.
+**Shared trips.** Trips are for splitting costs among friends. Everything in a trip can be seen by everyone who joined it with its invite link or code, so share the invite only with the people on the trip. The trip's admins add and change the amounts and can make other members admin; everyone else can only see it. The settle-up ("who pays whom") is a calculation from the amounts entered: check it with your friends. Each member sees a trip's amounts in the currency they chose in their own app, so agree on the currency with your friends before adding amounts. Payments between you happen outside the app, and we are not part of them.
 
 ## 7. Availability
 
