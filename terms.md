@@ -38,7 +38,7 @@ Please don't misuse the app — for example by trying to access other people's d
 
 ## 5. No financial advice
 
-Charts, forecasts, budgets, insights and suggestions are estimates to help you understand your own spending. They are not financial, tax or legal advice. **AI category suggestions (Gemini) can be wrong** — you can change any category.
+Charts, forecasts, budgets, insights and suggestions are estimates to help you understand your own spending. They are not financial, tax or legal advice. **AI help (Gemini) for categories and for voice or Quick add sentences the app didn't understand can be wrong** — check what was added (it's shown, with Undo). **AI category suggestions (Gemini) can be wrong** — you can change any category.
 
 ## 6. Your data
 
