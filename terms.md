@@ -1,6 +1,6 @@
 # Terms of Use — Centora: Expense Tracker
 
-_Last updated: 19 November 2026_
+_Last updated: 26 November 2026_
 
 These terms apply when you use the Centora: Expense Tracker Android app ("the app"), made by its independent developer ("we", "us"). By creating an account or using the app you agree to them and to our [Privacy Policy](privacy-policy.html). If you don't agree, please don't use the app.
 
@@ -18,7 +18,7 @@ A personal tool to record and understand your own spending, subscriptions and mo
 
 ## 3. Fair use
 
-Please don't misuse the app — for example by trying to access other people's data, interfering with the service, automating requests, or using it for anything unlawful. We may block an account that does this; a blocked account is signed out and can't use the app.
+Please don't misuse the app — for example by trying to access other people's data, interfering with the service, automating requests (including automated or bulk questions to Ask Centora), trying to make the AI ignore its rules, or using it for anything unlawful. We may block an account that does this; a blocked account is signed out and can't use the app.
 
 **Use the genuine app.** Install the app only from Google Play. Don't copy, modify, decompile, reverse-engineer, crack or redistribute it, and don't try to get around the free trial, the subscription, ads or any limit in the app. The app and its design, name and logo belong to the developer. To protect everyone's data, our servers check with Google Play Integrity that requests come from the genuine app: modified or unofficial copies can't sign in, load or save data, or use the AI features. We may block accounts used with such copies.
 
@@ -40,6 +40,8 @@ Please don't misuse the app — for example by trying to access other people's d
 
 Charts, forecasts, budgets, insights and suggestions are estimates to help you understand your own spending. They are not financial, tax or legal advice. **AI help (Gemini) for categories and for voice or Quick add sentences the app didn't understand can be wrong** — check what was added (it's shown, with Undo). **AI category suggestions (Gemini) can be wrong** — you can change any category.
 
+**Ask Centora (AI assistant).** Its answers are worked out from the data on your phone and written by Google Gemini; they **can be wrong or incomplete**, so check important figures in the app. "Can I afford it", "where to cut back" and estimates are simple calculations on your own records, not financial, tax, investment or legal advice. When it offers to add, change or delete something, it shows a card first and **nothing happens until you tap Confirm (or Delete)** — please check the card, you are responsible for what you confirm. Some changes can be undone right after; deleted categories can't. It only works with your own account's data.
+
 ## 6. Your data
 
 Your data stays yours. How we handle it is explained in the [Privacy Policy](privacy-policy.html). You can delete your account and all its data at any time from Settings → Delete account, or by following the [Delete your account](delete-account.html) steps.
@@ -53,6 +55,8 @@ Your data stays yours. How we handle it is explained in the [Privacy Policy](pri
 ## 7. Availability
 
 The app needs an internet connection to sign in. You can add expenses offline, but the app needs to go online at least **once a day** to check the date and sync; after a day offline it asks you to connect before you continue.
+
+AI features (Ask Centora, AI help with categories and voice) use Google Gemini and depend on its availability and on daily usage limits: they can be slow or unavailable for a while (for example "the assistant is busy"), and the number of Ask Centora questions a day may be limited by your plan. The rest of the app keeps working without them.
 
 The app is provided "as is". We work to keep it running and your data safe, but we can't promise it will always be available or free of errors, and we may change or stop features. Keep an export if a record is important to you. To the extent the law allows, we're not liable for indirect losses from using the app.
 
